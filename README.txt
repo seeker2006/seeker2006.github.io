@@ -1,0 +1,1 @@
+/Volumes/Mac/Users/alexey/projects/Publish/KidPixPad/trunk/Reuse/iOS-BetaBuilder/build/BetaBuilder for iOS Apps.app/Contents/Resources/README
